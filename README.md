@@ -1,3 +1,5 @@
+**Repository:** https://github.com/NivedhaSaravanan29/playwright-ecommerce-automation.git
+
 # Sauce Demo – Shop and check out (QA automation)
 
 Playwright + TypeScript tests for the use case *log in, sort, add to cart, check out* on https://www.saucedemo.com.
